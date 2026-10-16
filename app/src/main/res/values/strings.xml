@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SimpleProxyVPN</string>
+    <string name="proxy_host">Proxy host</string>
+    <string name="proxy_port">Port</string>
+    <string name="proxy_user">Username (optional)</string>
+    <string name="proxy_pass">Password (optional)</string>
+    <string name="type_socks5">SOCKS5</string>
+    <string name="type_http">HTTP CONNECT</string>
+    <string name="btn_connect">Connect</string>
+    <string name="btn_disconnect">Disconnect</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="msg_vpn_permission">VPN permission required. Please allow it in the system dialog.</string>
+    <string name="notification_title">SimpleProxyVPN</string>
+    <string name="notification_text">Tunnel active - traffic is routed through the proxy</string>
+</resources>
